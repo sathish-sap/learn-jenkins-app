@@ -26,6 +26,5 @@ pipeline {
                 echo 'Reaching Test stage'
             }
         }
-
     }
 }
